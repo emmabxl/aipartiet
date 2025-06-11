@@ -1,0 +1,25 @@
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  line-height: 1.35em;
+  min-height: 100vh;
+  margin: 10px;
+  background: rgb(255, 255, 255);
+  overflow-y: scroll; /* stops the content from scrollbar jitter */
+}
+
+.date {
+        color: #ff0000;
+        font-weight: bold;
+      }
+
+.pageWrapper {
+  max-width: 1024px;
+  width: 100%; /* IMPORTANT for flex full width! */
+}
