@@ -8,7 +8,7 @@ Built as a performative and speculative political platform, this site includes:
 - Campaign information and engagement tools
 - Built with simple HTML/CSS, hosted on GitHub Pages
 
-**Live site**: [https://emmabxl.github.io/ai-partiet](https://emmabxl.github.io/ai-partiet)  
+**Live site**: [https://emmabxl.github.io/aipartiet](https://emmabxl.github.io/aipartiet)  
 
 ---
 
@@ -17,4 +17,4 @@ Built as a performative and speculative political platform, this site includes:
 Clone the repo:
 
 ```bash
-git clone https://github.com/emmabxl/ai-partiet.git
+git clone https://github.com/emmabxl/aipartiet.git
